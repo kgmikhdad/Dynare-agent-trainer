@@ -1,0 +1,321 @@
+======================================================================
+MOD TO TXT CONVERSION SUMMARY
+======================================================================
+
+Conversion Details:
+  Date: 2026-01-28 21:43:46
+  Elapsed Time: 0:00:02.584953
+  Source Folder: C:\Users\Muhammed Mikhdad KG\Downloads\Rep-MMB-main (1)\Rep-MMB-main\Rep-MMB
+  Output Folder: C:\Users\Muhammed Mikhdad KG\all_mod_txt
+
+Statistics:
+  Total Unique Model Folders: 148
+  Total MOD Files Found: 149
+  Files Successfully Converted: 149
+  Files Failed: 0
+  Total Data Size: 2.43 MB
+
+======================================================================
+CONVERTED FILES:
+======================================================================
+
+  1. BRA_SAMBA08_rep.txt                                     4.71 KB
+     Original: BRA_SAMBA08\BRA_SAMBA08_rep.mod
+  2. CA_BMZ12_rep.txt                                       14.18 KB
+     Original: CA_BMZ12\CA_BMZ12_rep.mod
+  3. CA_LS07_rep.txt                                         4.27 KB
+     Original: CA_LS07\CA_LS07_rep.mod
+  4. CA_ToTEM10_rep.txt                                     36.55 KB
+     Original: CA_ToTEM10\CA_ToTEM10_rep.mod
+  5. CL_MS07_rep.txt                                        28.82 KB
+     Original: CL_MS07\CL_MS07_rep.mod
+  6. DEREA_GEAR16_rep.txt                                   45.08 KB
+     Original: DEREA_GEAR16\DEREA_GEAR16_rep.mod
+  7. EACZ_GEM03_rep.txt                                     39.46 KB
+     Original: EACZ_GEM03\EACZ_GEM03_rep.mod
+  8. EAES_RA09_rep.txt                                       9.11 KB
+     Original: EAES_RA09\EAES_RA09_rep.mod
+  9. EAUS_NAWM08_rep.txt                                    51.83 KB
+     Original: EAUS_NAWM08\EAUS_NAWM08_rep.mod
+ 10. EAUS_NAWMctww_rep.txt                                  47.78 KB
+     Original: EAUS_NAWMctww\EAUS_NAWMctww_rep.mod
+ 11. EA_ALSV06_rep.txt                                       6.21 KB
+     Original: EA_ALSV06\EA_ALSV06_rep.mod
+ 12. EA_AWM05_rep.txt                                       31.20 KB
+     Original: EA_AWM05\EA_AWM05_rep.mod
+ 13. EA_BE15_rep.txt                                         5.66 KB
+     Original: EA_BE15\EA_BE15_rep.mod
+ 14. EA_BF17_rep.txt                                         3.25 KB
+     Original: EA_BF17\EA_BF17_rep.mod
+ 15. EA_CKL09_rep.txt                                       13.77 KB
+     Original: EA_CKL09\EA_CKL09_rep.mod
+ 16. EA_CW05fm_rep.txt                                       4.88 KB
+     Original: EA_CW05fm\EA_CW05fm_rep.mod
+ 17. EA_CW05ta_rep.txt                                       4.50 KB
+     Original: EA_CW05ta\EA_CW05ta_rep.mod
+ 18. EA_DKR11_rep.txt                                       42.75 KB
+     Original: EA_DKR11\EA_DKR11_rep.mod
+ 19. EA_GE10_rep.txt                                         8.30 KB
+     Original: EA_GE10\EA_GE10_rep.mod
+ 20. EA_GNSS10_rep.txt                                      25.22 KB
+     Original: EA_GNSS10\EA_GNSS10_rep.mod
+ 21. EA_PV15_rep.txt                                        17.35 KB
+     Original: EA_PV15\EA_PV15_rep.mod
+ 22. EA_PV16_rep.txt                                        42.26 KB
+     Original: EA_PV16\EA_PV16_rep.mod
+ 23. EA_PV17_rep.txt                                        43.49 KB
+     Original: EA_PV17\EA_PV17_rep.mod
+ 24. EA_QR14_rep.txt                                        36.61 KB
+     Original: EA_QR14\EA_QR14_rep.mod
+ 25. EA_QUEST3_rep.txt                                      28.70 KB
+     Original: EA_QUEST3\EA_QUEST3_rep.mod
+ 26. EA_SR07_rep.txt                                        28.95 KB
+     Original: EA_SR07\EA_SR07_rep.mod
+ 27. EA_SW03_rep.txt                                        12.57 KB
+     Original: EA_SW03\EA_SW03_rep.mod
+ 28. EA_SWW14_rep.txt                                        9.15 KB
+     Original: EA_SWW14\EA_SWW14_rep.mod
+ 29. EA_VI16bgg_rep.txt                                      7.77 KB
+     Original: EA_VI16bgg\EA_VI16bgg_rep.mod
+ 30. EA_VI16gk_rep.txt                                      11.01 KB
+     Original: EA_VI16gk\EA_VI16gk_rep.mod
+ 31. ESREA_FIMOD12_rep.txt                                  55.45 KB
+     Original: ESREA_FIMOD12\ESREA_FIMOD12_rep.mod
+ 32. FI_AINO16_rep.txt                                      17.88 KB
+     Original: FI_AINO16\FI_AINO16_rep.mod
+ 33. G2_SIGMA08_rep.txt                                     29.97 KB
+     Original: G2_SIGMA08\G2_SIGMA08_rep.mod
+ 34. G3_CW03_rep.txt                                         7.65 KB
+     Original: G3_CW03\G3_CW03_rep.mod
+ 35. G7_TAY93_rep.txt                                       42.03 KB
+     Original: G7_TAY93\G7_TAY93_rep.mod
+ 36. GPM6_IMF13_rep.txt                                     61.43 KB
+     Original: GPM6_IMF13\GPM6_IMF13_rep.mod
+ 37. HK_FP13_rep.txt                                        10.93 KB
+     Original: HK_FP13\HK_FP13_rep.mod
+ 38. HK_FPP11_rep.txt                                        5.28 KB
+     Original: HK_FPP11\HK_FPP11_rep.mod
+ 39. NK_AFL15_rep.txt                                        6.89 KB
+     Original: NK_AFL15\NK_AFL15_rep.mod
+ 40. NK_BGEU10_rep.txt                                       2.54 KB
+     Original: NK_BGEU10\NK_BGEU10_rep.mod
+ 41. NK_BGG99_rep.txt                                        6.72 KB
+     Original: NK_BGG99\NK_BGG99_rep.mod
+ 42. NK_BGUS10_rep.txt                                       3.70 KB
+     Original: NK_BGUS10\NK_BGUS10_rep.mod
+ 43. NK_CDK24_RANK_rep.txt                                  38.28 KB
+     Original: NK_CDK24_RANK\NK_CDK24_RANK_rep.mod
+ 44. NK_CDK24_TANK_rep.txt                                  38.84 KB
+     Original: NK_CDK24_TANK\NK_CDK24_TANK_rep.mod
+ 45. NK_CFP10_rep.txt                                        4.71 KB
+     Original: NK_CFP10\NK_CFP10_rep.mod
+ 46. NK_CGG02_rep.txt                                        3.46 KB
+     Original: NK_CGG02\NK_CGG02_rep.mod
+ 47. NK_CGG99_rep.txt                                        2.91 KB
+     Original: NK_CGG99\NK_CGG99_rep.mod
+ 48. NK_CK08_rep.txt                                         9.57 KB
+     Original: NK_CK08\NK_CK08_rep.mod
+ 49. NK_CKL09_rep.txt                                       13.51 KB
+     Original: NK_CKL09\NK_CKL09_rep.mod
+ 50. NK_CW09_rep.txt                                        11.95 KB
+     Original: NK_CW09\NK_CW09_rep.mod
+ 51. NK_DEFK17_rep.txt                                       6.73 KB
+     Original: NK_DEFK17\NK_DEFK17_rep.mod
+ 52. NK_DT12_rep.txt                                        16.53 KB
+     Original: NK_DT12\NK_DT12_rep.mod
+ 53. NK_ET14_rep.txt                                         7.31 KB
+     Original: NK_ET14\NK_ET14_rep.mod
+ 54. NK_FLMF18_rep.txt                                      10.31 KB
+     Original: NK_FLMF18\NK_FLMF18_rep.mod
+ 55. NK_FNL23_rep.txt                                        7.51 KB
+     Original: NK_FNL23\NK_FNL23_rep.mod
+ 56. NK_FNL23_rep_trans.txt                                  7.24 KB
+     Original: NK_FNL23\NK_FNL23_rep_trans.mod
+ 57. NK_GHP16_rep.txt                                        5.71 KB
+     Original: NK_GHP16\NK_GHP16_rep.mod
+ 58. NK_GK09lin_rep.txt                                      5.22 KB
+     Original: NK_GK09lin\NK_GK09lin_rep.mod
+ 59. NK_GK11_rep.txt                                        11.66 KB
+     Original: NK_GK11\NK_GK11_rep.mod
+ 60. NK_GK13_rep.txt                                        28.22 KB
+     Original: NK_GK13\NK_GK13_rep.mod
+ 61. NK_GLSV07_rep.txt                                       4.19 KB
+     Original: NK_GLSV07\NK_GLSV07_rep.mod
+ 62. NK_GM05_rep.txt                                         8.10 KB
+     Original: NK_GM05\NK_GM05_rep.mod
+ 63. NK_GM07_rep.txt                                         5.36 KB
+     Original: NK_GM07\NK_GM07_rep.mod
+ 64. NK_GM16_rep.txt                                         5.09 KB
+     Original: NK_GM16\NK_GM16_rep.mod
+ 65. NK_GS14_rep.txt                                         8.45 KB
+     Original: NK_GS14\NK_GS14_rep.mod
+ 66. NK_GSSZ17_rep.txt                                       5.36 KB
+     Original: NK_GSSZ17\NK_GSSZ17_rep.mod
+ 67. NK_IR04_rep.txt                                         2.90 KB
+     Original: NK_IR04\NK_IR04_rep.mod
+ 68. NK_JO15_ht_rep.txt                                      4.80 KB
+     Original: NK_JO15_ht\NK_JO15_ht_rep.mod
+ 69. NK_JO15_lt_rep.txt                                      4.80 KB
+     Original: NK_JO15_lt\NK_JO15_lt_rep.mod
+ 70. NK_KM16_rep.txt                                         8.25 KB
+     Original: NK_KM16\NK_KM16_rep.mod
+ 71. NK_KRS12_rep.txt                                        5.12 KB
+     Original: NK_KRS12\NK_KRS12_rep.mod
+ 72. NK_KW16_rep.txt                                        11.75 KB
+     Original: NK_KW16\NK_KW16_rep.mod
+ 73. NK_LWW03_rep.txt                                        2.22 KB
+     Original: NK_LWW03\NK_LWW03_rep.mod
+ 74. NK_MCN99cr_rep.txt                                      2.68 KB
+     Original: NK_MCN99cr\NK_MCN99cr_rep.mod
+ 75. NK_MI14_rep.txt                                         3.77 KB
+     Original: NK_MI14\NK_MI14_rep.mod
+ 76. NK_MM10_rep.txt                                        11.71 KB
+     Original: NK_MM10\NK_MM10_rep.mod
+ 77. NK_MPT10_rep.txt                                       12.47 KB
+     Original: NK_MPT10\NK_MPT10_rep.mod
+ 78. NK_NS14_rep.txt                                         6.24 KB
+     Original: NK_NS14\NK_NS14_rep.mod
+ 79. NK_PP17_rep.txt                                         5.00 KB
+     Original: NK_PP17\NK_PP17_rep.mod
+ 80. NK_PSV16_rep.txt                                        3.83 KB
+     Original: NK_PSV16\NK_PSV16_rep.mod
+ 81. NK_RA16_rep.txt                                        16.78 KB
+     Original: NK_RA16\NK_RA16_rep.mod
+ 82. NK_RW06_rep.txt                                         1.99 KB
+     Original: NK_RW06\NK_RW06_rep.mod
+ 83. NK_RW97_rep.txt                                         2.36 KB
+     Original: NK_RW97\NK_RW97_rep.mod
+ 84. NK_ST13_rep.txt                                         9.52 KB
+     Original: NK_ST13\NK_ST13_rep.mod
+ 85. RBC_DTT11_rep.txt                                       4.94 KB
+     Original: RBC_DTT11\RBC_DTT11_rep.mod
+ 86. UK_SM11_rep.txt                                        11.33 KB
+     Original: UK_SM11\UK_SM11_rep.mod
+ 87. US_ACELm_rep.txt                                       20.33 KB
+     Original: US_ACELm\US_ACELm_rep.mod
+ 88. US_ACELswm_rep.txt                                     16.30 KB
+     Original: US_ACELswm\US_ACELswm_rep.mod
+ 89. US_ACELswt_rep.txt                                     15.32 KB
+     Original: US_ACELswt\US_ACELswt_rep.mod
+ 90. US_ACELt_rep.txt                                       15.25 KB
+     Original: US_ACELt\US_ACELt_rep.mod
+ 91. US_AJ16_rep.txt                                        21.30 KB
+     Original: US_AJ16\US_AJ16_rep.mod
+ 92. US_BB18_rep.txt                                        24.54 KB
+     Original: US_BB18\US_BB18_rep.mod
+ 93. US_BKM12_rep.txt                                        7.76 KB
+     Original: US_BKM12\US_BKM12_rep.mod
+ 94. US_CCF12_rep.txt                                       12.59 KB
+     Original: US_CCF12\US_CCF12_rep.mod
+ 95. US_CCTW10_rep.txt                                      13.00 KB
+     Original: US_CCTW10\US_CCTW10_rep.mod
+ 96. US_CD08_rep.txt                                         4.02 KB
+     Original: US_CD08\US_CD08_rep.mod
+ 97. US_CET15_rep.txt                                       30.87 KB
+     Original: US_CET15\US_CET15_rep.mod
+ 98. US_CFOP14_rep.txt                                      15.28 KB
+     Original: US_CFOP14\US_CFOP14_rep.mod
+ 99. US_CFP17endo_rep.txt                                   11.36 KB
+     Original: US_CFP17endo\US_CFP17endo_rep.mod
+100. US_CFP17exo_rep.txt                                    11.44 KB
+     Original: US_CFP17exo\US_CFP17exo_rep.mod
+101. US_CMR10_rep.txt                                       25.58 KB
+     Original: US_CMR10\US_CMR10_rep.mod
+102. US_CMR10fa_rep.txt                                     18.26 KB
+     Original: US_CMR10fa\US_CMR10fa_rep.mod
+103. US_CMR14_rep.txt                                       26.79 KB
+     Original: US_CMR14\US_CMR14_rep.mod
+104. US_CMR14noFA_rep.txt                                   19.94 KB
+     Original: US_CMR14noFA\US_CMR14noFA_rep.mod
+105. US_CPS10_rep.txt                                        4.33 KB
+     Original: US_CPS10\US_CPS10_rep.mod
+106. US_DG08_rep.txt                                         7.63 KB
+     Original: US_DG08\US_DG08_rep.mod
+107. US_DNGS15_rep.txt                                       8.23 KB
+     Original: US_DNGS15\US_DNGS15_rep.mod
+108. US_DNGS15_SW_rep.txt                                    7.56 KB
+     Original: US_DNGS15_SW\US_DNGS15_SW_rep.mod
+109. US_DNGS15_SWpi_rep.txt                                  7.41 KB
+     Original: US_DNGS15_SWpi\US_DNGS15_SWpi_rep.mod
+110. US_DNGS15_SWSP_rep.txt                                  8.14 KB
+     Original: US_DNGS15_SWSP\US_DNGS15_SWSP_rep.mod
+111. US_FGKR15_rep.txt                                      22.22 KB
+     Original: US_FGKR15\US_FGKR15_rep.mod
+112. US_FM95_rep.txt                                         4.61 KB
+     Original: US_FM95\US_FM95_rep.mod
+113. US_FMS134_rep.txt                                       8.61 KB
+     Original: US_FMS134\US_FMS134_rep.mod
+114. US_FRB03_rep.txt                                       42.95 KB
+     Original: US_FRB03\US_FRB03_rep.mod
+115. US_FRB08_rep.txt                                       92.51 KB
+     Original: US_FRB08\US_FRB08_rep.mod
+116. US_FRB08mx_rep.txt                                    111.49 KB
+     Original: US_FRB08mx\US_FRB08mx_rep.mod
+117. US_FRB22_rep.txt                                       80.77 KB
+     Original: US_FRB22\US_FRB22_rep.mod
+118. US_FU19_rep.txt                                         9.08 KB
+     Original: US_FU19\US_FU19_rep.mod
+119. US_FV10_rep.txt                                         9.46 KB
+     Original: US_FV10\US_FV10_rep.mod
+120. US_FV15_rep.txt                                        11.72 KB
+     Original: US_FV15\US_FV15_rep.mod
+121. US_HL16_rep.txt                                        17.17 KB
+     Original: US_HL16\US_HL16_rep.mod
+122. US_IAC05_rep.txt                                        5.10 KB
+     Original: US_IAC05\US_IAC05_rep.mod
+123. US_IN10_rep.txt                                        17.03 KB
+     Original: US_IN10\US_IN10_rep.mod
+124. US_IR11_rep.txt                                         3.84 KB
+     Original: US_IR11\US_IR11_rep.mod
+125. US_IR15_rep.txt                                         5.43 KB
+     Original: US_IR15\US_IR15_rep.mod
+126. US_JPT11_rep.txt                                       12.13 KB
+     Original: US_JPT11\US_JPT11_rep.mod
+127. US_KK14_rep.txt                                         7.13 KB
+     Original: US_KK14\US_KK14_rep.mod
+128. US_KS15_rep.txt                                         4.46 KB
+     Original: US_KS15\US_KS15_rep.mod
+129. US_LTW17_rep.txt                                       29.89 KB
+     Original: US_LTW17\US_LTW17_rep.mod
+130. US_LTW17gz_rep.txt                                     50.69 KB
+     Original: US_LTW17gz\US_LTW17gz_rep.mod
+131. US_LTW17nu_rep.txt                                     51.13 KB
+     Original: US_LTW17nu\US_LTW17nu_rep.mod
+132. US_LTW17rot_rep.txt                                    50.95 KB
+     Original: US_LTW17rot\US_LTW17rot_rep.mod
+133. US_LWY13_rep.txt                                       20.19 KB
+     Original: US_LWY13\US_LWY13_rep.mod
+134. US_MI07_rep.txt                                         2.35 KB
+     Original: US_MI07\US_MI07_rep.mod
+135. US_MR07_rep.txt                                        18.82 KB
+     Original: US_MR07\US_MR07_rep.mod
+136. US_OR03_rep.txt                                         2.68 KB
+     Original: US_OR03\US_OR03_rep.mod
+137. US_OW98_rep.txt                                         7.63 KB
+     Original: US_OW98\US_OW98_rep.mod
+138. US_PM08_rep.txt                                         3.93 KB
+     Original: US_PM08\US_PM08_rep.mod
+139. US_PM08fl_rep.txt                                       3.93 KB
+     Original: US_PM08fl\US_PM08fl_rep.mod
+140. US_PV15_rep.txt                                        19.82 KB
+     Original: US_PV15\US_PV15_rep.mod
+141. US_RA07_rep.txt                                        20.20 KB
+     Original: US_RA07\US_RA07_rep.mod
+142. US_RE09_rep.txt                                         5.26 KB
+     Original: US_RE09\US_RE09_rep.mod
+143. US_RS99_rep.txt                                         2.29 KB
+     Original: US_RS99\US_RS99_rep.mod
+144. US_SW07_rep.txt                                         8.23 KB
+     Original: US_SW07\US_SW07_rep.mod
+145. US_VI16bgg_rep.txt                                      7.82 KB
+     Original: US_VI16bgg\US_VI16bgg_rep.mod
+146. US_VI16gk_rep.txt                                      10.84 KB
+     Original: US_VI16gk\US_VI16gk_rep.mod
+147. US_VMDno_rep.txt                                       16.05 KB
+     Original: US_VMDno\US_VMDno_rep.mod
+148. US_VMDop_rep.txt                                       16.11 KB
+     Original: US_VMDop\US_VMDop_rep.mod
+149. US_YR13_rep.txt                                         6.63 KB
+     Original: US_YR13\US_YR13_rep.mod
+
+======================================================================
